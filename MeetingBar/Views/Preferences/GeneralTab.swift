@@ -43,7 +43,7 @@ struct PreferredLanguageSection: View {
                 Text("preferences_general_option_preferred_language_system_value".loco()).tag(AppLanguage.system)
                 Text("preferences_general_option_preferred_language_english_value".loco()).tag(AppLanguage.english)
                 Text("preferences_general_option_preferred_language_russian_value".loco()).tag(AppLanguage.russian)
-            }
+            }.frame(width: 250, alignment: .leading)
             Text("preferences_general_option_preferred_language_tip".loco()).foregroundColor(Color.gray).font(.system(size: 12))
         }
     }

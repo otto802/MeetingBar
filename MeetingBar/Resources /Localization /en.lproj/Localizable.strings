@@ -37,7 +37,7 @@
 
 "preferences_general_option_login_launch" = "Launch at Login";
 "preferences_general_option_preferred_language_title" = "Preferred language:";
-"preferences_general_option_preferred_language_tip" = "⚠️ Application reload required";
+"preferences_general_option_preferred_language_tip" = "⚠️ Application restart required";
 "preferences_general_option_preferred_language_system_value" = "System";
 "preferences_general_option_preferred_language_english_value" = "English";
 "preferences_general_option_preferred_language_russian_value" = "Русский";
@@ -162,6 +162,7 @@
 "status_bar_empty_calendar_message" = "Select calendars in preferences\nto see your meetings";
 "status_bar_section_join_next_meeting" = "Join next event meeting";
 "status_bar_section_join_create_meeting" = "Create meeting";
+"status_bar_section_open_meeting_from_clipboard" = "Open meeting from clipboard";
 "status_bar_section_bookmarks_title" = "Bookmarks";
 "status_bar_section_bookmarks_menu" = "Bookmarks menu";
 "status_bar_section_date_nothing" = "Nothing for %@";

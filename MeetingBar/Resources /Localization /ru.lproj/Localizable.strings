@@ -162,6 +162,7 @@
 "status_bar_empty_calendar_message" = "Выберите календари в настройках,\nчтобы увидеть свои события";
 "status_bar_section_join_next_meeting" = "Присоединяйтесь к следующему событию";
 "status_bar_section_join_create_meeting" = "Создать событие";
+"status_bar_section_open_meeting_from_clipboard" = "Открытая событие из буфера обмена";
 "status_bar_section_bookmarks_title" = "Закладки";
 "status_bar_section_bookmarks_menu" = "Меню закладок";
 "status_bar_section_date_nothing" = "Ничего на %@";
