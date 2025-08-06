@@ -5,6 +5,7 @@ For next releases info look here: <https://github.com/leits/MeetingBar/releases>
 ## Unreleased
 
 * Fix typo in language list (#839)
+* Reworked German translation (fixes also #858)
 
 ## Version 4.11.0
 
